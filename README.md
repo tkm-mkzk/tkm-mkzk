@@ -3,7 +3,7 @@
 My name is TAKUMI, MIKAZUKI. I'm an active engineer with a diverse technology stack.
 
 ## 👨‍💻 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Gatsby, Next.js
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js
 - **Backend:** Ruby, Ruby on Rails, C#
 - **Database:** MySQL, PostgreSQL, SQL Server, Supabase
 - **Environment Setup:** Docker
