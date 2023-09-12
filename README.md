@@ -17,11 +17,6 @@ If you have any questions, or if you simply want to enjoy a workout or a delicio
 ## 😄 Lastly
 Thank you for visiting this page! Please feel free to contact me if you have any questions or concerns. I look forward to discussing a wide range of topics from technical issues to lifestyle matters.
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkm-mkzk&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tkm-mkzk&theme=onedark&show_icons=ture" />
-</p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=tkm-mkzk&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
