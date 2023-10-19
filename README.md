@@ -1,4 +1,4 @@
-# Hello, world! 👋
+# Hello, world! I'm TAKUMI, MIKAZUKI! 👋
 
 My name is TAKUMI, MIKAZUKI. I'm an active engineer with a diverse technology stack.
 
