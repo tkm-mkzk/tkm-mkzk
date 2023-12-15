@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/tkm-mkzk/tkm-mkzk/main/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
-```
-
-    
