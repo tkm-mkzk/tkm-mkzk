@@ -4,7 +4,7 @@ My name is TAKUMI, MIKAZUKI. I'm an active engineer with a diverse technology st
 
 ## 👨‍💻 Tech Stack
 - **Frontend:** TypeScript, React, Next.js, Vue.js, Nuxt.js, Jest
-- **Backend:** Node.js, Nest.js, Ruby, Ruby on Rails, C#
+- **Backend:** Node.js, Nest.js, Ruby, Ruby on Rails, C#, Go, Gin
 - **Database:** MySQL, PostgreSQL, SQL Server, Prisma
 - **Environment Setup:** Docker, AWS
 
@@ -16,10 +16,3 @@ If you have any questions, or if you simply want to enjoy a workout or a delicio
 
 ## 😄 Lastly
 Thank you for visiting this page! Please feel free to contact me if you have any questions or concerns. I look forward to discussing a wide range of topics from technical issues to lifestyle matters.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tkm-mkzk&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![](https://raw.githubusercontent.com/tkm-mkzk/tkm-mkzk/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/tkm-mkzk/tkm-mkzk/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tkm-mkzk/tkm-mkzk/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/tkm-mkzk/tkm-mkzk/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tkm-mkzk/tkm-mkzk/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
