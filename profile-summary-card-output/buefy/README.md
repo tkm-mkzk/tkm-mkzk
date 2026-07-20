@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/tkm-mkzk/tkm-mkzk/main/profile-summary-card-output/buefy/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/tkm-mkzk/tkm-mkzk/main/profile-summary-card-output/buefy/4-productive-time.svg)
-```
-
-    
